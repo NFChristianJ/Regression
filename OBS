@@ -1,0 +1,23 @@
+Étapes pour configurer OBS Studio :
+Téléchargez et installez OBS Studio si ce n’est pas déjà fait.
+Créez une nouvelle scène en cliquant sur le bouton “+” dans la section “Scenes”.
+Ajoutez une source de capture d’écran :
+Cliquez sur le bouton “+” dans la section “Sources”.
+Sélectionnez “Capture d’écran” (ou “Display Capture”).
+Donnez un nom à cette source et cliquez sur “OK”.
+Sélectionnez l’écran que vous souhaitez capturer et cliquez sur “OK”.
+Ajoutez une source de webcam :
+Cliquez à nouveau sur le bouton “+” dans la section “Sources”.
+Sélectionnez “Périphérique de capture vidéo” (ou “Video Capture Device”).
+Donnez un nom à cette source et cliquez sur “OK”.
+Sélectionnez votre webcam dans le menu déroulant et cliquez sur “OK”.
+Ajustez la taille et la position de la webcam :
+Cliquez sur la source de la webcam dans la section “Sources”.
+Utilisez les poignées autour de la vidéo pour redimensionner et repositionner la webcam à l’endroit souhaité sur l’écran.
+Appliquez un masque circulaire à la webcam (optionnel) :
+Faites un clic droit sur la source de la webcam et sélectionnez “Filtres”.
+Cliquez sur le bouton “+” en bas à gauche et sélectionnez “Masque/Blend”.
+Choisissez une image de masque circulaire (vous pouvez en trouver en ligne ou créer la vôtre) et appliquez-la.
+Tutoriels utiles :
+OBS Setting up your webcam overlay : Un tutoriel vidéo sur la configuration d’une bordure de webcam dans OBS1.
+HOW TO add webcam overlays to your OBS : Un guide facile pour ajouter et redimensionner des superpositions de webcam dans OBS2.
